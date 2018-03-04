@@ -10,7 +10,7 @@ To: Beth Fisher <fisherba@umn.edu>
 
 Hi Beth,
 
-See attached; probably need to rotate.
+See attached [wiring diagram, AO4.jpg]; probably need to rotate.
 
 From left to right:
 
