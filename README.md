@@ -11,4 +11,5 @@ Paleo Terra makes three types of redox probes:
   * Powered amplifier
 * **Active probes**
   * Have onboard analog-to-digital (A/D) converter, a [MicroChip MCP3421](https://www.microchip.com/wwwproducts/en/en520011)
+    * 2.7V to 5.5V supply voltage
   * Digital data communication via I2C
