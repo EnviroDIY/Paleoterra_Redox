@@ -29,7 +29,7 @@ void setup() {
   pinMode(22, OUTPUT);    // power ON for 5V
   digitalWrite(22, HIGH);  // power ON for 5V
 
-  Wire.begin(MCP3421); // join i2c bus (address optional for master)
+  Wire.begin(); // join i2c bus (address optional for master)
 
   Serial.begin(115200); // Open serial connection to send info to the host
   while (!Serial) {}  // wait for Serial comms to become ready

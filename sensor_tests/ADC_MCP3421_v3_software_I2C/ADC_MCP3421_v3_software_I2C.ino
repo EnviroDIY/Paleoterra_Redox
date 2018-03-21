@@ -12,7 +12,7 @@ and I2C communication.
 #include "SoftI2CMaster.h"
 
 const int sdaPin = 11; // green wire  !! 10k pullup to Vdd !!
-const int sclPin = 10 ; // yellow wire  !! 10k pullup to Vdd !!
+const int sclPin = 10; // yellow wire  !! 10k pullup to Vdd !!
 #define MCP3421 0x68
 
 SoftI2CMaster i2c = SoftI2CMaster( sclPin, sdaPin, 0 );
