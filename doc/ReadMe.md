@@ -1,11 +1,11 @@
 # Instructions for Physically Connections, including Reference Electrode
 
 
----------- Forwarded message ----------
-From: Sander Smit <info@paleoterra.nl>
-Date: Mon, Nov 6, 2017 at 11:14 AM
-Subject: Reference electrode connections
-To: Beth Fisher <fisherba@umn.edu>
+---------- Forwarded message ----------  
+From: Sander Smit <info@paleoterra.nl>  
+Date: Mon, Nov 6, 2017 at 11:14 AM  
+Subject: Reference electrode connections  
+To: Beth Fisher <fisherba@umn.edu>  
 
 
 Hi Beth,
