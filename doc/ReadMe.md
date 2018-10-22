@@ -1,5 +1,8 @@
 # Instructions for Physically Connections, including Reference Electrode
 
+Paleoterra provides instructions in their [Measuring redox potential](https://paleoterra.nl/measuring_redox_potential.html) web page at https://paleoterra.nl/measuring_redox_potential.html
+
+The following email provides additional guidance:
 
 ---------- Forwarded message ----------  
 From: Sander Smit <info@paleoterra.nl>  
